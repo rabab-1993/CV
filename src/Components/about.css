@@ -1,0 +1,35 @@
+.about {
+    background: #fff;
+    width: 50rem;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: left;
+    height: 100%;
+}
+
+
+.about i {
+    font-size: 2rem;
+    color: grey;
+    font-weight: 300;
+    margin-top: 3rem;
+}
+
+.about span {
+    background: rgb(41, 202, 68);
+    padding: 0.5rem;
+    margin: 0.7rem;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.about h4 {
+    color: rgb(160, 158, 158);
+}
+
+.about hr {
+    width: 100%;
+    color: rgba(230, 225, 225, 0.274);
+}
