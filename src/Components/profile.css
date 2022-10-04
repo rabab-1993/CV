@@ -19,12 +19,16 @@
     color: rgb(136, 136, 136);
 }
 
+.profile b {
+    margin-left: 0.3rem;
+}
+
 .icons {
     font-size: 2rem;
     padding: 1rem;
 }
 
-.icons i {
+.icons a {
     
     margin: 0.5rem;
 }

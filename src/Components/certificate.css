@@ -1,0 +1,17 @@
+.certificate {
+  width: fit-content;
+  padding: 1rem;
+  margin: auto;
+  background: #fff;
+  /* display: flex;
+    flex-direction: column;
+    justify-content:center; */
+  text-align: left;
+  height: 100%;
+  font-size: 2rem;
+}
+
+/* .certificate img {
+  width: 40rem;
+padding-left: 2rem;
+} */
