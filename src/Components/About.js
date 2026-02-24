@@ -30,6 +30,7 @@ export const About = () => {
         <FaGraduationCap /> Education
       </i>
       <hr />
+      <h3>- Diploma in Programming and Applications (Qassim University | -)</h3>
       <h3>- Bachelor Of Human Resource Mangement (Buraydah Colleges | 2016)</h3>
       <h3>- Front-End Web Development (NANODEGREE Program) Udacity | 2020</h3>
       <i>
